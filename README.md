@@ -38,33 +38,6 @@ The project demonstrates several key programming concepts:
 - CSS styling for visual appeal
 - Event handlers for game actions
 
-## 🚀 How to Run
-1. Ensure Racket is installed on your system
-2. Install the `web-server` package if not already installed
-   ```
-   raco pkg install web-server
-   ```
-3. Run the application:
-   ```
-   racket project3.rkt
-   ```
-4. Access the game in your web browser at the default port
-
-## 🎯 Future Enhancements
-- Multiplayer support
-- More advanced betting options (splitting, doubling down)
-- Local storage for saving player stats
-- Sound effects and animations
-- Mobile-first responsive design
-
-## 🎓 Educational Value
-This project demonstrates:
-- Fundamental card game algorithms
-- Web application development in Racket
-- State management in a functional context
-- UI/UX considerations for web games
-- Application of CSS for game interfaces
-
 ---
 
 © 2025 | Created using Racket and `web-server/insta`
