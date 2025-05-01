@@ -33,19 +33,19 @@ The project demonstrates several key programming concepts:
 ## 📸 Gameplay Screenshots
 
 ### Bank Account Setup
-![Bank Setup](screenshots/bank_setup.png)
+![Bank Setup](https://github.com/user-attachments/assets/f979406b-0820-4316-8ba5-59f9fe597dc3)
 *Setting up your initial bank account with $100*
 
 ### Placing Your Bet
-![Betting Screen](screenshots/betting_screen.png)
+![Betting Screen](https://github.com/user-attachments/assets/249eebf6-5704-4aa1-ac6f-b6f1b742099d)
 *Placing a $10 bet before starting the game*
 
 ### Game In Progress
-![Gameplay](screenshots/active_gameplay.png)
+![Gameplay](https://github.com/user-attachments/assets/e0b34f25-cf27-41ea-93e5-7b75f7f26011)
 *Game in progress: Player has 20 points (Jack of Hearts and 10 of Spades), while dealer shows Queen of Hearts with one card face down. Player can choose to hit or stay*
 
 ### Player Bust
-![Player Bust](screenshots/player_bust.png)
+![Player Bust](https://github.com/user-attachments/assets/78b297c2-bbd4-459c-a986-0ec401802bbf)
 *Game over: Player busted with 23 points after hitting (Jack of Hearts, 10 of Spades, and 3 of Clubs), while dealer has 16 points (6 of Spades and Queen of Hearts)*
 
 
