@@ -30,6 +30,25 @@ The project demonstrates several key programming concepts:
 6. Higher hand value wins, without exceeding 21
 7. Natural Blackjack (21 with first two cards) pays 3:1
 
+## 📸 Gameplay Screenshots
+
+### Bank Account Setup
+![Bank Setup](screenshots/bank_setup.png)
+*Setting up your initial bank account with $100*
+
+### Placing Your Bet
+![Betting Screen](screenshots/betting_screen.png)
+*Placing a $10 bet before starting the game*
+
+### Game In Progress
+![Gameplay](screenshots/active_gameplay.png)
+*Game in progress: Player has 20 points (Jack of Hearts and 10 of Spades), while dealer shows Queen of Hearts with one card face down. Player can choose to hit or stay*
+
+### Player Bust
+![Player Bust](screenshots/player_bust.png)
+*Game over: Player busted with 23 points after hitting (Jack of Hearts, 10 of Spades, and 3 of Clubs), while dealer has 16 points (6 of Spades and Queen of Hearts)*
+
+
 ## 🖥️ Code Structure
 - Card and deck representation
 - Hand evaluation logic
